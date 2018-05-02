@@ -1,0 +1,11 @@
+const ActionTypes = {
+    USERNAME:'USERNAME',
+    USERDATA:'USERDATA',
+    SINGIN:'SINGIN',
+    DATAOFDONOR:'DATAOFDONOR',
+    AVAILABLE_DONORS:'AVAILABLE_DONORS',
+    SignOut:'SignOut',
+    FACEBOOK_LOGIN:'FACEBOOK_LOGIN'
+}
+
+export default ActionTypes;
